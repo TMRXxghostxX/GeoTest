@@ -1,1 +1,2 @@
-# GeoTest
+# Geologist
+Geologist Project
